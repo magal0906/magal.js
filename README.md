@@ -1,0 +1,2 @@
+# magal.js
+trabalho
